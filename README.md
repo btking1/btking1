@@ -7,7 +7,7 @@ Full Stack Developer
 I've been learning to code for 3 years. I started with Java but eventually found my passion for frontend and design.
 
 * 🌍  I'm based in North Carolina
-* 🖥️  See my portfolio at [My Portfolio](http://btking1.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](https://btking1.github.io/Portfolio-React/)
 * ✉️  You can contact me at [btking1@my.waketech.edu](mailto:btking1@my.waketech.edu)
 * 🧠  I'm learning GraphQL
 * 🤝  I'm open to collaborating on projects
