@@ -4,7 +4,7 @@ Hi 👋 My name is Booker King
 Full Stack Developer
 --------------------
 
-I've been learning to code for 3 years. I started with Java but eventually found my passion for frontend and design.
+Coder with 3 years of experience. I started with Java but eventually found my passion for frontend and design.
 
 * 🌍  I'm based in North Carolina
 * 🖥️  See my portfolio at [My Portfolio](https://btking1.github.io/Portfolio-React/)
