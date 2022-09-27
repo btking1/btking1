@@ -1,7 +1,7 @@
 Hi 👋 My name is Booker King
 ============================
 
-Full Stack Developer
+Full Stack Developer + Problem Solver
 --------------------
 
 Coder with 3 years of experience. I started with Java but eventually found my passion for frontend and design.
